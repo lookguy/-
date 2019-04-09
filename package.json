@@ -4,7 +4,8 @@
   "description": "数据结构与算法例子",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx webpack --config webpack.config.js"
   },
   "author": "招雄彬 <614619114@qq.com>",
   "license": "MIT",
