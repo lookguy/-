@@ -1,0 +1,11 @@
+{
+  "name": "witcher",
+  "version": "1.0.0",
+  "description": "数据结构与算法例子",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "招雄彬 <614619114@qq.com>",
+  "license": "MIT"
+}
