@@ -11,6 +11,10 @@
   "dependencies": {
     "@babel/cli": "^7.4.3",
     "@babel/polyfill": "^7.4.3",
-    "@babel/preset-env": "^7.4.3"
+    "@babel/preset-env": "^7.4.3",
+    "core-js": "2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3"
   }
 }
