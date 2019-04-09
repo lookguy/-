@@ -9,12 +9,14 @@
   "author": "招雄彬 <614619114@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "@babel/cli": "^7.4.3",
-    "@babel/polyfill": "^7.4.3",
-    "@babel/preset-env": "^7.4.3",
     "core-js": "2"
   },
   "devDependencies": {
-    "@babel/core": "^7.4.3"
+    "@babel/core": "^7.4.3",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "@babel/cli": "^7.4.3",
+    "@babel/polyfill": "^7.4.3",
+    "@babel/preset-env": "^7.4.3"
   }
 }
