@@ -13,7 +13,7 @@ export class Stack {
     }
     //返回栈顶的元素
     peek() {
-        return this.items[items.length - 1];
+        return this.items[this.items.length - 1];
     }
     //判断栈里是否有元素
     isEmpty() {
